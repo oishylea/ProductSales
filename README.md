@@ -1,8 +1,8 @@
-# Product Sales Dashboard
+# Product Sales Dashboard 📈
 
 This repository contains a comprehensive sales dashboard that analyzes product sales using SQL Server Management Studio (SSMS) and Power BI. The dashboard provides valuable insights into cost prices, revenue trends, and discounts across various dimensions.
 
-## Features
+## Features ⭐
 
 - **Data Analysis**: Utilizes SSMS for querying and managing sales data.
 - **Interactive Visualizations**: Built with Power BI for dynamic and insightful visual representations.
@@ -14,7 +14,17 @@ This repository contains a comprehensive sales dashboard that analyzes product s
 - **Table Breakdown**: Detailed tabular view of sales data.
 - **Discount Band Breakdown**: Analysis of sales data based on discount bands.
 
-## Software Used
+## Software Used ⚙️
 
 - SQL Server Management Studio (SSMS)
-- Power BI Desktop
+- Microsoft Power BI
+- 
+## SQL Queries 🛢️
+[View SQL Query PDF](SQL%20Query/Query.pdf)
+
+## Dashboard Overview 📊
+<p align="center">
+  <img src="powebi/Screenshot.png" alt="Screenshot" style="width: 50%;" />
+  <img src="powebi/Tooltip.png" alt="Tooltip" style="width: 50%;" />
+</p>
+
