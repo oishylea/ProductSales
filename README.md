@@ -18,7 +18,7 @@ This repository contains a comprehensive sales dashboard that analyzes product s
 
 - SQL Server Management Studio (SSMS)
 - Microsoft Power BI
-- 
+
 ## SQL Queries 🛢️
 [View SQL Query PDF](SQL%20Query/Query.pdf)
 
