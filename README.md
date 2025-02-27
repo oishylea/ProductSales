@@ -1,3 +1,5 @@
+<p align="center"><img src="image/header.jpg" alt="vetheader.jpg" width="100%" /></p>
+
 # Product Sales Dashboard 📈
 
 This repository contains a comprehensive sales dashboard that analyzes product sales using SQL Server Management Studio (SSMS) and Power BI. The dashboard provides valuable insights into cost prices, revenue trends, and discounts across various dimensions.
