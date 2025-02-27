@@ -24,7 +24,7 @@ This repository contains a comprehensive sales dashboard that analyzes product s
 
 ## Dashboard Overview 📊
 <p align="center">
-  <img src="powebi/Screenshot.png" alt="Screenshot" style="width: 50%;" />
-  <img src="powebi/Tooltip.png" alt="Tooltip" style="width: 50%;" />
+  <img src="powebi/Screenshot.png" alt="Screenshot" />
+  <img src="powebi/Tooltip.png" alt="Tooltip" />
 </p>
 
